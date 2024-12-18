@@ -1,0 +1,494 @@
+@media(max-width:1440px){
+
+
+    .header{
+        /* max-width: 2000px;
+        margin-inline: auto; */
+        height: 50vw;
+        background-color: #F9F9F9;
+    }
+    .navbar-brand{
+        max-width: 2000px;
+        margin-inline: auto;
+        flex-direction: row;
+        display: flex;
+        padding-right: 3vw;
+    }
+    #hr{
+        align-self: center;
+        margin-left: 2vw;
+        background-color: #ADB3BF;
+        width: 0.1vw;
+        height: 2.5vw;
+    
+    }
+    .navbar{
+        background-color: #1E1F25;
+        margin-top: 0vw;
+        height: 12%;
+        width: 100%;
+    }
+    .container-fluid{
+        padding-right: 200px;
+    }
+    .navbar-nav{
+        margin-left: -26vw;
+        width: 80%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .navbar a{
+        color: #ADB3BF;
+        font-size: 1vw;
+        
+        font-weight: 300;
+    }
+    .navbar a:hover{
+        color: #0d6efd;
+        font-weight: 500;
+    }
+    .navbar img{
+        width: 10vw;
+        margin-left: 8vw;
+    }
+    #dolar20{
+        font-weight: 600;
+        color: black;
+    }
+    .d-flex{
+        width: 50%;
+        height: 3.4vw;
+    }
+    .d-flex input{
+        font-size: 1.1vw;
+        width: 90%;
+        border-radius: 10px;
+        background-color: #EDEDED;
+    }
+    #sign{
+        font-size: 1.1vw;
+        border: none;
+        margin-left: 4vw;
+        border-radius: 0.4vw;
+        width: 32%;
+        background-color: #1B70F1;
+        color: white;
+    }
+    #sign:hover{
+        box-shadow: 0vw 0vw 1vw rgba(255, 255, 255, 0.237);
+        font-size: 1.1vw;
+        border: none;
+        margin-left: 1vw;
+        border-radius: 0.4vw;
+        color: #1B70F1;
+        background-color: white;
+    }
+    #log{
+        font-size: 1.1vw;
+        align-content: center;
+    }
+    .offcanvas{
+        display: none;
+    }
+    .offcanvas-body div{
+        display: none;
+    }
+    .offcanvas-title{
+        display: none;
+    }
+    .dropdown-menu{
+        display: none;   
+    }
+    .dropdown{
+        display: none;
+    }
+
+
+
+
+
+
+
+
+    .body3{
+        background-color: #131517;
+        height: 70vw;
+    }
+    #bd31{
+        color: white;
+        font-size: 2.8vw;
+        font-weight: 600;
+        text-align: center;
+        padding-top: 6vw;
+    }
+    #bd32{
+        width: 60%;
+        font-size: 1vw;
+        font-weight: 400;
+        text-align: center;
+        color: #ADB3BF;
+        margin-left: 20vw;
+        padding-top: 1vw;   
+    }
+    .bd3{
+        margin-left: 8vw;
+        display: flex;
+        flex-direction: row;
+    }
+    .Eas{
+        display: flex;
+        flex-direction: column;
+    }
+    .Eas1{
+        margin-top: 2vw;
+        width: 80%;
+        align-items: center;
+        display: flex;
+        flex-direction: row;
+        
+    }
+    #p01{
+        font-size: 3vw;
+    }
+    .Eas1 div{
+        margin: 1vw;
+        display: flex;
+        flex-direction: column;
+        height: 7vw;
+    }
+    #esp1{
+        color: #ADB3BF;
+        font-size:1.4vw;
+    }
+    #esp2{
+        color:#808A9A;
+        font-size: 1vw;
+    }
+    .Eas1 a{
+        width: 10vw;
+        margin-left:2vw ;
+        font-size: 1vw;
+        color: white;
+        text-decoration: none;
+    }
+    .Eas1 a:hover{
+        width: 10vw;
+        margin-left:2vw ;
+        font-size: 1vw;
+        color: #0d6efd;
+        text-decoration: none;
+    }
+    #line3{
+        width: 80%;
+        margin-top: 1vw;
+    }
+    #img10{
+        align-self: center;
+        width: 50%;
+        height: 25%;
+    }
+    
+
+
+
+
+    .body4{
+        height: 45vw;
+        background-color: #1E1F25;
+    }
+    .tr{
+        padding-top: 4vw;
+        width: 84%;
+        align-items: center;
+        margin-left: 8vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    
+    }
+    #tr1{
+        width: 30%;
+        color: white;
+        font-size: 2.8vw;
+        font-weight: 600;
+        
+    }
+    #tr2{
+        width: 54%;
+        font-size: 1vw;
+        font-weight: 400;
+        color: #ADB3BF;
+        
+         
+    }
+    
+    .carousel{
+        margin-left: 8vw;
+        width: 84%;
+        height: 36%;
+        margin-top: 3vw;
+    }
+    
+    #sld{
+        margin-bottom: -2vw;
+    }
+    #sld button{
+        width: 5vw;
+        margin: 0.2vw;
+        height: 0.3vw;
+    }
+    #imgsl{
+        width: 32%;
+    }
+    #imgsl1{
+        width: 32%;
+    }
+    #imgsl2{
+        width: 32%;
+    }
+    #car{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        
+    }
+
+
+
+
+    .ft3{
+        width: 84vw;
+        margin-top: 2vw;
+        margin-left: 8vw;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .ft31{
+        align-items: center;
+        width: 34%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .ft31 p{
+        color: white;
+        font-size: 0.9vw;
+    }
+    .ft31 div{
+        margin-bottom: 1.2vw;
+        width: 0.3vw;
+        height: 0.3vw;
+        background-color: #808A9A;
+        border-radius: 100%;
+    }
+    
+    
+    .ft32{
+        width: 16%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .ft32 button{
+        width: 45%;
+        color: white;
+        background-color: transparent;
+        border:0.1vw solid #ADB3BF;
+        border-radius: 4%;
+        font-size: 0.8vw;
+    }
+    .ft32 button:hover{
+        transition: 0.4s;
+        width: 45%;
+        color: white;
+        background-color:#0d6efd;
+        border:none;
+        border-radius: 4%;
+        font-size: 0.8vw;
+    }
+
+
+
+
+
+
+
+
+
+    /* -----------------------------------------------------------------------------------LogIn */
+.log{
+    background-color: #1E1F25;
+    width: 100%;
+    height: 60vw;
+    padding-top: 8vw;
+    display: flex;
+    flex-direction: row;
+}
+.log1{
+    display: flex;
+    flex-direction: column;
+    width: 108%;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 8vw;
+    height: 40vw;
+}
+.log11{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 100%;
+}
+.log11 #em{
+    color: white;
+    margin-bottom: 2vw;
+    padding: 0.6vw;
+    border: 0.10vw solid #808A9A;
+    border-radius: 0.15vw;
+    font-size: 1vw;
+    width: 100%;
+    background-color: #1E1F25;
+}
+.log11 p{
+    font-size: 1vw;
+    color: white;
+}
+.log11 button{
+    color: white;
+    background-color: #0d6efd;
+    height: 2.8vw;
+    border-radius: 0.15vw;
+    font-size: 1vw;
+}
+.log11 button:hover{
+    box-shadow: 0vw 0vw 1vw rgba(255, 255, 255, 0.237);
+    color: white;
+    background-color: #0d6efd;
+    height: 2.8vw;
+    border-radius: 0.15vw;
+    font-size: 1vw;
+    transition: 0.4s;
+}
+.log11 button a:hover{
+    color: white;
+}
+#loginp{
+    font-size: 3vw;
+    color: white;
+    font-weight: 500;
+}
+#fp{
+    font-size: 1vw;
+    color: white;
+}
+#dontacc{
+    font-size: 1vw;
+    color: #808A9A;
+}
+.log1 a{
+    color: white;
+    text-decoration: none ;
+}
+.log1 a:hover{
+    color: #1B70F1;
+    text-decoration: none ;
+}
+.log img{
+    
+    height: 90%;
+    margin-left: 10vw;
+    margin-top: -4vw;
+}
+
+
+
+
+
+
+
+
+
+
+/* -----------------------------------------------------------------------------------Sign In */
+.name{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.name input{
+    width: 100%;
+}
+.sign{
+    
+    background-color: #1E1F25;
+    width: 100%;
+    height: 60vw;
+    padding-top: 2vw;
+    display: flex;
+    flex-direction: row;
+}
+.sign img{
+    height: 90%;
+    margin-left: 10vw;
+    margin-top: -6vw;
+}
+.sign .log11 #em{
+    color: white;
+    margin-bottom: 1.6vw;
+    padding: 0.6vw;
+    border: 0.10vw solid #808A9A;
+    border-radius: 0.15vw;
+    font-size: 1.4vw;
+    width: 100%;
+    background-color: #1E1F25;
+}
+.sign .log11 p{
+    
+    font-size: 1.4vw;
+    color: white;
+}
+.sign .log11{
+    
+    width: 120%;
+}
+#loginp2{
+    font-size: 3vw;
+    color: white;
+    font-weight: 500;
+}
+#check{
+    background-color: #131517;
+    color: #131517;
+    border: 2vw solid #808A9A;
+    border-radius: 100vw;
+    width: 0.7vw;
+    height: 0.7vw;
+    margin-right: 0.6vw;
+}
+.sign .log11 button{
+    color: white;
+    background-color: #0d6efd;
+    height: 2.8vw;
+    margin-top: 1vw;
+    margin-bottom: 2vw;
+    border-radius: 0.15vw;
+    font-size: 1.4vw;
+}
+.sign .log11 button:hover{
+    box-shadow: 0vw 0vw 1vw rgba(255, 255, 255, 0.237);
+    color: white;
+    background-color: #0d6efd;
+    height: 2.8vw;
+    margin-top: 1vw;
+    margin-bottom: 2vw;
+    border-radius: 0.15vw;
+    font-size: 1.4vw;
+    transition: 0.4s;
+}
+.sign .log11 button a:hover{
+    color: white;
+}
+}
